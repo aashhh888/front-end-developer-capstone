@@ -1,0 +1,14 @@
+.headerContainer
+{
+    display: grid;
+    grid-template-columns: auto auto;
+    margin-top: 1%;
+}
+
+.headerContainer img
+{
+    width: 200px;
+    height: 75px;
+    display:block;
+    margin-left: auto;
+}

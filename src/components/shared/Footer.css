@@ -1,0 +1,15 @@
+.footerContainer
+{
+    background-color: #495E57;
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    padding-bottom: 1%;
+}
+
+.footerContainer img
+{
+    width: 160px;
+    height: 280px;
+    display:block;
+    margin-left: auto;
+}

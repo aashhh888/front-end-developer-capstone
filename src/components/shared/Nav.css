@@ -1,0 +1,11 @@
+nav ul
+{
+    text-align: left;
+    margin-top: 3.5%;
+}
+
+nav li
+{
+    display: inline-block;
+    margin-right: 3%;
+}
