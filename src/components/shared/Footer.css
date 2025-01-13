@@ -3,7 +3,8 @@
     background-color: #495E57;
     display: grid;
     grid-template-columns: auto auto auto auto;
-    padding-bottom: 1%;
+    padding-top: 1%;
+    padding-bottom: 1.5%;
 }
 
 .footerContainer img
@@ -12,4 +13,5 @@
     height: 280px;
     display:block;
     margin-left: auto;
+    padding-right: 10%;
 }

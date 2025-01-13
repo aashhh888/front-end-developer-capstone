@@ -1,8 +1,10 @@
+import './FooterNav.css';
+
 const FooterNav = (props) => {
 
     return (
-        <div>
-        {props.navHeading} 
+        <div className='footerNavContainer'>
+        <b>{props.navHeading}</b>
         <ul>
             {props.navItems.map((data) => {
                 return (
